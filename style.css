@@ -1,0 +1,25 @@
+
+div {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+
+
+h1{
+    text-align: center;
+}
+
+
+.table th {
+    color: aquamarine;
+    text-align: center;
+    background-color:aquamarine; 
+    font-size: 1.3em;
+    border: 2px solid;
+
+} 
+
+.table td {
+    text-align: center;
+} 
